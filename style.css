@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(177, 232, 174)
+}
+#score{
+    font-size:25px;
+    margin-left:20px;
+}
+#timer{
+    font-size:25px;
+    float:right;
+    margin-right:20px;
+}
+#sketch{
+    color:rgb(12, 123, 44);
+    font-size:30px;
+}
+h1{
+    background-color: rgb(31, 135, 100);
+    color:white;
+}
+#show_sketch{
+    float:right;
+}
+#your_sketch{
+    font-size:20px;
+}
+#confidence{
+    font-size:20px;
+}
